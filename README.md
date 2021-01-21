@@ -1,2 +1,18 @@
-# slides
-Slides and Materials related to conducted Events and Workshops 
+## File directory Structure
+```
+├── Workshop1                   
+│   ├── Year1             
+│       ├── README.md              
+│   ├── Year2            
+│       ├── README.md           
+│   ...                 
+├── Workshop2                   
+│   ├── Year1             
+│       ├── README.md              
+│   ├── Year2            
+│       ├── README.md           
+│   ...                 
+│   
+│   ...
+│README.md
+```
