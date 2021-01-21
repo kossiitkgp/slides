@@ -1,0 +1,2 @@
+- [Repo containing all details of 2020 Workshop]
+- [Recording of the workshop - YouTube Link](https://youtu.be/8Hz8Sx8zLGw)
