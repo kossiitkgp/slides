@@ -1,0 +1,2 @@
+- [GSoC 21 Intro Seminar Slides](https://github.com/kossiitkgp/slides/blob/main/GSoC-Intro-Sem/2020/GSoC%202021%20Seminar.pdf)
+- [GSoC 21 Intro Seminar - YouTube Video Recording](https://www.youtube.com/watch?v=H-yodtTU7yU)
