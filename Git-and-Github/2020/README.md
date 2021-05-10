@@ -1,2 +1,2 @@
-- [Repo containing all details of 2020 Workshop]([kossiitkgp/git-and-github-workshop-2020](https://github.com/kossiitkgp/git-and-github-workshop-2020))
+- [Repo containing all details of 2020 Workshop](https://github.com/kossiitkgp/git-and-github-workshop-2020)
 - [Recording of the workshop - YouTube Link](https://youtu.be/8Hz8Sx8zLGw)
