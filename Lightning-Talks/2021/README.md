@@ -11,7 +11,14 @@
 | [Google Dorking](https://chinsaw.github.io/l_talksx21/Google_Dorking.pdf) | @chinsaw |
 | [Manual Image Manipulation](https://onedrive.live.com/redir?resid=AB8FBD4A989CB407!2166&authkey=!AHsqnSwe61WIsgw&ithint=file%2cpptx&e=v4pUcE) | @ritszaar |
 | [Deep Learning and Some Applications](https://drive.google.com/drive/folders/1z7T7zWrTrygfewr_kGSUrVTtOA1JRM-r) | @anushka-2002 |
-
+| [Assertive Programming](https://github.com/chirag-ghosh/KOSS-Tasks/tree/master/lightTalksAug2021) | @chirag828049 |
+| [GDB The GNU DeBugger](https://slides.com/ananyadas-1/deck/fullscreen) | @ananyaa0 |
+| [Data Compression Algorithms](https://docs.google.com/presentation/d/1LZGh6R6I5t5pemyPI8UjxuygWbFE2qNR/edit#slide=id.p1) | @sneaky-potato |
+| Unix Philosophy | @atharvaamritkar |
+| [Why do I exist?](https://www.icloud.com/keynote/00PN_tRoy3-Ak76RFKXl-nS_Q#KOSS%5FLT) | @Fifirex |
+| Limitations of Computing | @Adiboy3112 |
+| [Internet of Behaviour](https://drive.google.com/file/d/1NO6Ilo2-Yqux3PlbymczQedigcBrPn-L/view) | @IshAg-Git |
+| Science of Fear | @cliff-4 |
 ## Recordings
 - [Part 1](https://www.youtube.com/watch?v=6G1yZVsPV-0&t=26s&pp=ygUUa29zcyBsaWdodG5pbmcgdGFsa3M%3D)
 - [Part 2](https://www.youtube.com/watch?v=QA_Y-7r0K3w&pp=ygUUa29zcyBsaWdodG5pbmcgdGFsa3M%3D) 
