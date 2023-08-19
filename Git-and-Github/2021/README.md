@@ -1,1 +1,2 @@
-- [Repo containing all the details](https://github.com/kossiitkgp/Git-and-Github-2021)
+- [Slides](https://github.com/kossiitkgp/workshops/tree/main/2021/git-github/slides)
+- [Resources](https://github.com/kossiitkgp/workshops/tree/main/2021/git-github/advanced%20stuffs)

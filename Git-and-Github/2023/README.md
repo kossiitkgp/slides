@@ -1,0 +1,2 @@
+- [Slides](https://github.com/kossiitkgp/workshops/tree/main/2023/git-github/slides)
+- [Resources](https://github.com/kossiitkgp/workshops/tree/main/2023/git-github/resources)

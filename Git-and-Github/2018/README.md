@@ -1,1 +1,1 @@
-[Repo containing all details of 2018 Workshop](https://github.com/kossiitkgp/git-workshop-2018)
+[Slides and Resources](https://github.com/kossiitkgp/workshops/tree/main/2018/git-github)

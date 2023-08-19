@@ -1,2 +1,2 @@
-- [Repo containing all details of 2020 Workshop](https://github.com/kossiitkgp/git-and-github-workshop-2020)
-- [Recording of the workshop - YouTube Link](https://youtu.be/8Hz8Sx8zLGw)
+- [Slides](https://github.com/kossiitkgp/workshops/tree/main/2020/git-github/slides)
+- [Resources](https://github.com/kossiitkgp/workshops/tree/main/2020/git-github/advance%20stuff)
