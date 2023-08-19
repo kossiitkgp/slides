@@ -3,8 +3,8 @@
 | Topic & Link to slide | Presenter |
 |----------|----------|
 | [Mathematics of Game Theory](https://www.canva.com/design/DAFrZDYaUzo/dLt3yqdu4L0CjYiI3TjDXA/view?utm_content=DAFrZDYaUzo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) | [@Nafisay](https://github.com/Nafisay) |
-| Open Source Outside Software | [@tejasexpress](https://github.com/tejasexpress) |
-| Interstellar Travel | [@SWARAJ-42](https://github.com/SWARAJ-42) |
+| [Open Source's Breach Beyond Software](https://www.canva.com/design/DAFrgaa4aNk/0pC8Cq3jsId10vFg6RYbiw/view) | [@tejasexpress](https://github.com/tejasexpress) |
+| [Interstellar Travel](https://docs.google.com/presentation/d/1NOIlXITZ7esGnvPn4AJ3ij7E8KuyGOo3/edit?usp=drive_link&ouid=109721391671183898870&rtpof=true&sd=true)| [@SWARAJ-42](https://github.com/SWARAJ-42) |
 | [Procastination as a Programmer](https://docs.google.com/presentation/d/1l0tyxa-3HlbIjOIEfpccZQnmDzTkKYj5mzAmjvXz190/edit?usp=drivesdk) | [@harshit-jain52](https://github.com/harshit-jain52) |
 | [Quantum Computing](https://github.com/Sadat3332/Koss-Presentation) | [@Sadat3332](https://github.com/Sadat3332) |
 | [How Computers Hear](https://docs.google.com/presentation/d/1l0tyxa-3HlbIjOIEfpccZQnmDzTkKYj5mzAmjvXz190/edit?usp=drivesdk) | [@SachdevJai](https://github.com/SachdevJai) |
