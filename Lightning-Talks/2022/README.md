@@ -11,4 +11,5 @@
 | [Vedic Mathematics](https://www.google.co.in/books/edition/Vedic_Mathematics/LwZ3zQEACAAJ?hl=en) | [@proffapt](https://github.com/proffapt) |
 | [OS Dev, Rust, and Firmware](https://docs.google.com/presentation/d/1W-Dmdo7CvKxilXvepCAfc-dGbzr1Qz5P4nMrZAj-RQE/edit#slide=id.p) | [@Signor-Koala](https://github.com/Signor-Koala) |
 | [Brothers of Black Holes](https://docs.google.com/presentation/d/1PViigiedLvEEFanJiXltojTBBqgSlYkgMAeER98N_hI/edit?pli=1#slide=id.gc624a2eb97_0_162) | [@leader282](https://github.com/leader282) |
-
+| Game Development | [@IceCurrent](https://github.com/IceCurrent)|
+| Tax Evasion Strategies | [@theredmac](https://github.com/theredmac) |
