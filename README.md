@@ -1,3 +1,7 @@
+> [!Note]
+> The content of this repository has been merged into [events](https://github.com/kossiitkgp/events) repository.<br>
+> This exist for the sake of old links existing already, but from now onwards events repository will be referenced.
+
 ## File directory Structure
 ```
 ├── Workshop1                   
